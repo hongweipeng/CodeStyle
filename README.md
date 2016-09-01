@@ -5,7 +5,9 @@
 ## 使用方法
 
 第一步：下载本插件，放在 `usr/plugins/` 目录中；
+
 第二步：文件夹名改为CodeStyle；
+
 第二步：登录管理后台，激活插件；
 
 github开源地址：[https://github.com/hongweipeng/CodeStyle_for_typecho][1]
