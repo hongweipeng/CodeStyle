@@ -1,6 +1,6 @@
 ## 起步
 
-代码展示样式，将 [highlightjs][5] 制作为typecho插件形式。
+代码展示样式，将 [highlightjs][4] 制作为typecho插件形式。
 
 ## 使用方法
 
