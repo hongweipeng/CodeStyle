@@ -4,7 +4,7 @@
  * 
  * @package CodeStyle 
  * @author hongweipeng
- * @version 0.7.1
+ * @version 0.8.0
  * @link https://www.hongweipeng.com
  */
 class CodeStyle_Plugin implements Typecho_Plugin_Interface {
